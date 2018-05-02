@@ -1,0 +1,9 @@
+BODY {
+	background-color: darkgray;
+	text-align: center;
+}
+
+#tetrisCanvas {
+	border: 5px solid white;
+
+}
